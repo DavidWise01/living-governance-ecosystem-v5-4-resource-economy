@@ -4,6 +4,6 @@ slug  : living-governance-ecosystem-v5-4-resource-economy
 seal  : 75ab99d3712f2429a2d717f5330c90c64c3fa028e1b9113c0f707eb61f27baa7
 prev  : afd1db35585e5b9e469509e0cae0f554c509ba006933bec047b34308199b678f
 link  : 7cebc7a0c948902093b660c881ce527f045968ac2f63a316ed7729dd49f94b21
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
